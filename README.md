@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, artificial intelligence and machine learning.
 - 🌱 I’m currently learning AI and ML.
 - 💞️ I’m looking to collaborate on website designing.
-- 📫 How to reach me : greenorange1969@gmail.com
+- 📫 How to reach me : sganguly@techdevai.com
 
 <!---
 samganguly/samganguly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
