@@ -37,11 +37,11 @@
 
 ### 🧰 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,html,css" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,fastapi,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,fastapi,nodejs" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=azure,vercel,linux,git,github,postgres,mysql,mongodb,powershell,bash" />
+  <img src="https://skillicons.dev/icons?i=azure,vercel,linux,git,github,postgres,mysql,mongodb" />
 </p>
 
 ---
