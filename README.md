@@ -31,7 +31,7 @@
 - **Pricing + Forecasting** → **+10%** accuracy, **+2%** contract margin  
 - **MCP AI Agents + Telegram** → answers in **<30s** vs **~15 min** before
 
-> ATS keywords: **Python, SQL, Power BI, Azure (Functions, OpenAI, Fabric/Kusto), scikit-learn, TensorFlow, OpenCV, FastAPI, LangChain, SharePoint/Graph, LLM Agents, Forecasting, Experimentation, Stakeholder comms.**
+> TLDR : **Python, SQL, Power BI, Azure (Functions, OpenAI, Fabric/Kusto), scikit-learn, TensorFlow, OpenCV, FastAPI, LangChain, SharePoint/Graph, LLM Agents, Forecasting, Experimentation, Stakeholder comms.**
 
 ---
 
@@ -47,7 +47,7 @@
 ---
 
 ### 🔬 Featured Projects
-> Aligned to Data Analyst / Data Scientist / AI Engineer JDs.
+> Aspiring for roles as Data Analyst / Data Scientist / AI Engineer .
 
 | Project | What it does | Stack | Repo |
 |---|---|---|---|
