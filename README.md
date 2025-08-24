@@ -46,7 +46,7 @@
 
 ---
 
-### 🔬 Featured Projects
+### 🔬 Passtime Projects
 > Aspiring for roles as Data Analyst / Data Scientist / AI Engineer .
 
 | Project | What it does | Stack | Repo |
